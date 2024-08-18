@@ -1,0 +1,13 @@
+
+----------------------------------------------
+2023-11-23 05:41:53-PM Ian  
+ Drinks: [Drink{name='Venti Mocha', size='large', ounces=16.8, addedCream=true, addedFlavor='null', cost=7.4}] 
+ Snacks: [Snack{name='Oreos', description='other snack', cost=1.5}] 
+ Merch: [Merchandise{name='coffee cup', size='medium', unitPrice=6.5, quantity=2}] 
+ Payment Method: Credit Card
+ Credit Card: Visa
+ Credit Card Number: 299
+ AmountPaid=23.433
+----------------------------------------------
+
+On 2023-11-23 05:43:26-PM, the FIU Starbucks store has sold $23.43
